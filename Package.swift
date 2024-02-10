@@ -10,6 +10,7 @@ let supportedPlatforms: [Platform] = [
     .iOS,
     .watchOS,
     .tvOS,
+    .visionOS,
     .driverKit,
     .linux,
     .android,
